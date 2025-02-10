@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JasmineART.
 - 👀 I’m interested in Front End Engineering.
-- 🌱 I’m currently completing a certificate program on codeacademy.com.
+- 🌱 I’m currently completing a certificate program on freecodecamp.org.
 - 💞️ I’m looking to collaborate on cool react web apps & web games in the future.
 - 📫 You can reach me via email for collab ideas or work opportunities at jareevesthomas@gmail.com.
 - 😄 Pronouns: She/Her 
